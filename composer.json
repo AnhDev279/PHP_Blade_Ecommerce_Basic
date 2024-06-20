@@ -1,0 +1,14 @@
+{
+    "name": "php2/ecommerce",
+    "autoload": {
+        "psr-4": {
+            "Php2\\Ecommerce\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "y"
+        }
+    ],
+    "require": {}
+}
